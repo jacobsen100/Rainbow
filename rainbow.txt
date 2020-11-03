@@ -1,3 +1,4 @@
+RAINBOW!
 red
 blue
 green
