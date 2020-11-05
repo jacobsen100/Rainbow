@@ -4,6 +4,7 @@ blue
 green
 yellow
 purple
+orange
 
 Are some of the colors of the rainbow
 
