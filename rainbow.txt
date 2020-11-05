@@ -6,6 +6,7 @@ yellow
 purple
 orange
 indigo
+cyan
 
 Are some of the colors of the rainbow
 
